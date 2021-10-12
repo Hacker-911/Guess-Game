@@ -61,7 +61,7 @@ export default function App() {
 
   return (
     <View style={styles.screen}>
-      <Header title="QuickSpace Industries" />
+      <Header title="Guess Game" />
       {content}
     </View>
   );
