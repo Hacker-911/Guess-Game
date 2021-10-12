@@ -68,7 +68,7 @@ const StartGameScreen = (props) => {
       <View style={styles.screen}>
         <Text style={styles.title}>Screen 1</Text>
         <Card style={styles.inputContainer}>
-          <Text>Sick Leaves</Text>
+          <Text>Guess A Number</Text>
           <Input
             style={styles.input}
             blurOnSubmit
